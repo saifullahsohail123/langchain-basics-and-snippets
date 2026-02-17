@@ -30,6 +30,7 @@ print(f"Answer from AI: {result.content}")
 # AI Message
 # Message from AI
 
+# This is essential for the model to have context and this is a must have for larger projects
 messages = [
     SystemMessage(content='Solve the following maths problem'),
     HumanMessage(content='What is 2 divided by 2218'),
