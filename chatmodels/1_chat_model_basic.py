@@ -6,7 +6,7 @@ from langchain_ollama import ChatOllama
 load_dotenv()
 
 # Create a ChatOpenAI model
-#model = ChatOpenAI(model='gpt-4o')
+#model = ChatOpenAI(model='gpt-4o') # automatically gets the OPENAPI_AI_KEY from the .env
 model = ChatOllama(model='llama3.2') 
 
 # Invoke the model with a message
