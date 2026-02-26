@@ -24,6 +24,7 @@ prompt_template = ChatPromptTemplate.from_messages(   # this single line replace
     ]
 )
 
+# We will require RunnableLambda to create extended chains
 # Define additional runnables steps using RunnableLambda
 
 uppercase_output = RunnableLambda(lambda x: x.upper()) # this is just an example of an additional step in the chain that converts the output to uppercase.
