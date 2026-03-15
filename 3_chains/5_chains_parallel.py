@@ -63,5 +63,7 @@ chain = (
 )
 
 # ── Run ──────────────────────────────────────────────────────────────────────
-result = chain.invoke({"product_name": "Alienware M15 R7 Gaming Laptop"})
+# result = chain.invoke({"product_name": "Alienware M15 R7 Gaming Laptop"})
+result = chain.invoke({"product_name": "Google pixel 9 pro"})
+
 print(result)
