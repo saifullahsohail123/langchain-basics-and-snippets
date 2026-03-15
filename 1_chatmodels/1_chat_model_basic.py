@@ -10,7 +10,7 @@ load_dotenv()
 model = ChatOllama(model='llama3.2') 
 
 # Invoke the model with a message
-result = model.invoke('Make a hello world assembly program')
+result = model.invoke('Suggest a muslim baby name')
 print(result)
 print('\n Content only \n')
 print(result.content)

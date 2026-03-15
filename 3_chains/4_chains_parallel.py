@@ -66,8 +66,13 @@ cons_branch_chain = RunnableLambda(
 
 # Create the combined chain using Langchain Expression Language (LCEL)
 chain = (
-    prompt_template | model | StrOutputParser() | RunnableParallel(branches= {"pros": pros_branch_chain, "cons": cons_branch_chain})
+    prompt_template | 
+    model | 
+    StrOutputParser() | 
+    RunnableParallel(branches= {"pros": pros_branch_chain, "cons": cons_branch_chain}) |
+    RunnableParallel(lambda x: print("final output", x) or combine_pros_cons(x["branches"]["pros"], x["branches"]["cons"]))
 )
+
 
 # Run the chain with a product name
 
