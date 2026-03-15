@@ -54,14 +54,27 @@ def combine_pros_cons(pros, cons):
     return f"Pros:\n{pros}\n\nCons:\n{cons}"
 
 
+
 # Simplify branches with LCEL
-pros_branch_chain = (
-    RunnableLambda(analyze_pros) | model | StrOutputParser()
+pros_branch_chain = RunnableLambda(
+    lambda x: analyze_pros(x) | model | StrOutputParser
 )
 
-cons_branch_chain = (
-    RunnableLambda(analyze_cons) | model | StrOutputParser()
+cons_branch_chain = RunnableLambda(
+    lambda x: analyze_cons(x) | model | StrOutputParser
 )
+
+
+# Fix No 1
+
+# # Simplify branches with LCEL
+# pros_branch_chain = (
+#     RunnableLambda(analyze_pros) | model | StrOutputParser()
+# )
+
+# cons_branch_chain = (
+#     RunnableLambda(analyze_cons) | model | StrOutputParser()
+# )
 
 
 # Create the combined chain using Langchain Expression Language (LCEL)
@@ -73,7 +86,7 @@ chain = (
     RunnableParallel(lambda x: print("final output", x) or combine_pros_cons(x["branches"]["pros"], x["branches"]["cons"]))
 )
 
-# Fix 
+# Fix No 2
 
 # chain = (
 #     prompt_template
