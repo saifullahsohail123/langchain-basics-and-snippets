@@ -54,7 +54,3 @@ if not os.path.exists(persistent_directory):
         
 else:
     print("Persistent directory already exsists. Skipping vector store initialization.")
-    
-
-
-
