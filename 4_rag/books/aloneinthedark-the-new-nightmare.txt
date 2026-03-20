@@ -1,0 +1,1778 @@
+Alone In The Dark: The New Nightmare Guide &amp; FAQs:
+==================================================
+
+Author: Hezda
+E-mail: hezda@hotmail.com
+ICQ no. : 10328685
+Version: Final
+Last update: 21st August 2001
+Play Station version
+
+Unpublished work Copyright 2001 Hezda
+
+This guide is for private and personal use only. It is not to be used or
+reproduced, in part or whole, for profitable or promotional purposes. This
+encompasses paper-based and electronic reproduction, whether as part of a
+magazine, book, website, CD / DVD format or any other medium. Permission has
+been granted for www.gamefaqs.com to reproduce the full text, and I welcome
+requests from other sites wishing to be granted the same, especially fan sites.
+All content was created by Hezda and is owned by me. I also acknowledge
+any trademarks and copyrights that are not specifically mentioned in the text.
+Please do not modify my guide. Don't even mail me for this because I will NOT
+allow you to do so. The most you can do is only make a spell check for me.
+
+This walkthrough is best views in 800x600. You can always find the most
+recent version of this walkthrough at www.gamefaqs.com and www.game-revolution.com
+There are many web sites posted my guide but they rarely update it. If you 
+found any web sites that contain my walkthrough, pls tell me. Thanks!
+
+===============================
+TABLE OF CONTENTS:
+===============================
+
+1. Updates/Introduction
+
+2. Weapons
+
+3. -Disc 1 Walkthrough
+   3.1. Edward Carnby
+   3.2. Aline Cedrac
+   -Disk 2 Walkthrough
+   3.3. Edward Carnby
+   3.4. Aline Cedrac
+
+4. Hints/Secrets/Gameshark codes
+
+5. Credits
+
+-------------
+1. UPDATES:
+-------------
+
+Final   : -This is the final update for my walkthrough. Thanks to all who are
+           contributed to me and those who read the walkthrough. Please continue     
+           to support me. My next walkthrough won't come out until I get a PS2 
+           which will probably next year. PSX got no games for me to write one 
+           anymore. I love all you guys!
+
+Ver. 2.1: -Well, another update. Only add in Gameshark codes which soooo... many
+           players ask for. I will add in more later when the reader that sent me
+           these codes send me more codes again. Because I deleted it accidentally.
+           Awww... no people playing AITD anymore.
+
+Ver. 2.0: -Okay guys! Many of you said that my diagram for the library is wrong
+           so I'm now make it clearer. It's not wrong it's only depends on how
+           you look at it.
+          -Yeah, another update!
+          -Corrected more spelling mistakes.
+
+Ver. 1.9: -Corrected some spelling mistakes
+          -Added free charm tip
+          -I'm still ALIVE!
+
+Ver. 1.8: -Explain more detailly in solving the stone circle puzzle
+          -Combinations of the lock! (for Carnby)
+
+Ver. 1.7: -Nothing new... REALLY!
+          -Updated the Gameshark codes section
+          -Corrected some minor mistakes
+          -Updated Carnby's walkthrough
+          -Change a little bit things...
+
+Ver. 1.6: -Still have a lot of corrections to do
+          -Sorry about the Acrobat statue, I forgot to point out where to
+           get it... :(
+          -Added weapons section
+          -Redo certain parts of Carnby's walkthrough bacause some people
+           claimed that my walkthrough is pretty confusing. Sorry about
+           that. :(
+
+Ver. 1.5: -Added Gameshark codes
+          -Corrected some mistakes
+          -Still... awww... no secrets found... :(
+
+ver. 1.4: -Finally finished the walkthrough for both characters
+          -I will update the secrets section if there's secret in game
+          -Corrected some spelling mistakes
+          -Updated Aline's walkthrough
+
+Ver. 1.3: -Still hasn't finish Carnby walkthrough because there's a full
+           walkthrough for Carnby already
+          -Still... corrected some mistakes
+          -Still... no secrets found
+          -Still... alive and writing this walkthrough :)
+          -Corrected a big mistake in Aline walkthrough. The luminescent stone
+           is actually the energy stone.
+
+Ver. 1.2: -Finished Aline's walkthrough
+          -Corrected some mistakes
+          -Still hasn't find any secrets though... :(
+
+Ver. 1.1: -Corrected some mistakes in the walkthrough
+          -update Aline's walkthrough
+          -Update hints section
+          -I'll try to finsih Carnby's walkthrough in the next update.
+
+Ver. 1.0: First version of this guide, I'm trying to beat the game as
+          soon as possible. Contains partial of Carnby's and Aline's
+          walkthrough. I'll try to finish the guide soon.
+
+
+==================
+Introduction:
+==================
+
+Welcome to my first FAQ. After a few months of wait, Alone In The Dark 4
+finally hit the shelve. Without hasitate, I quickly bought it and pop it
+into my PlayStation console. After watching the beautifully done opening
+FMV, I was amazed by the beautiful graphics and the spectacular lighting
+effects. Although the control sucks 'cause it is hard to meanuver your
+character. All in all, this is a very good game. Go buy it if you are a
+Resident Evil series fan. You won't be dissapointed. So here's my rating:
+
+Gameplay: 8
+Graphics: 10 (it's really amazing!)
+Sound   : 9 (the musics and the sound effects are great! But the voice acting
+             is bad... :-o )
+Control : 6 (a bit awkward...)
+Replay  : 5 (why....?)
+
+Overall : 9 (go buy it!)
+
+It's time to introduce a bit of myself.
+I'm from Malaysia, Kuching. I'm a Chinese so my English
+aren't so good. If you find any mistake in my walkthrough, feel free to send
+me correction and I will gladly appreciate it.
+
+Since this is the first time I ever write a FAQ so I'll try my best to
+cover all the details about the game in my walkthrough. I won't cover the
+game's story into my guide 'cause I don't want to ruin your fun with this
+game. I strongly suggest you read this guide only when you're completely stuck
+on a certain puzzle. Anyway, you can e-mail me if you have any question
+about the game. You can also send me some informations you have about the
+game and I'll give you a credit. I'll try my best to reply your mail.
+
+Note: Before you send me mail asking questions, pls read to the walkthrough
+      first. If you really can't find what you need then mail me. Many people
+      asking me the questions which can already be answered in my walkthrough.
+      Press Ctrl+F to find what you looking for. Always download the most
+      recent version of this guide at www.gamefaqs.com or www.game-revolution.com
+
+ATTENTION: Pls note down which characters you were using if you asking me 
+           qustions about the game. Other than that, if you don't put down
+           any title for your mail then it will automatically be deleted by my
+           Hotmail's filter function. If you didn't receive my reply then 
+           it's probably because your mail's been deleted or I'm forgot to reply. 
+           Try to send another one. I WILL difinately reply your mail if I receive
+           it.  
+
+So, sit back and enjoy the horror!
+
+===================
+2. Weapons
+===================
+
+1. Modified revolver (Carnby only): This is the second weakest weapon in
+   Use: Magnesium bullets           the game. It uses two bullets in one shot
+                                    which is quite powerful against smaller
+                                    enemies. Don't use this against the zombies
+                                    or enemies with bigger sizes, you will be
+                                    sorry...
+
+2. Revolver (Aline only):  Almost the same as Carnby's revolver, except that
+   Use: Magnesium bullets  it only has one hole so it uses only one bullet
+                           in one shot. This is probably the weakest weapon
+                           in the game. Useful against smaller enemies.
+
+3. Tripple-barreled shotgun: You will be using this baby quite a lot. Since
+   Use: Phosphorus bullets   it's quite powerful so it's best use against
+                             bigger enemies like the zombies. The only
+                             drawback was you need to reload it quite
+                             often. Other than that, it uses 3 bullets in
+                             one shot! If you using this often, you will
+                             discover that you won't have enough bullets
+                             to use this baby anymore.
+
+4. Plasma Cannon           : This weapon was pretty useless. I don't mean it's
+   Use: Gas cartridge        weak, this is because the range for this weapon
+                             is very short. You need to be extremely close with
+                             the enemy in order to hit them with this. The only
+                             advantage is that it can hit multiple enemies at
+                             one time.
+
+5. Grenade Launcher        : This weapon was pretty powerful. You will be using
+   Use: Grenade              this guy for boss fight usually. There are not many
+                             granades throughout the game so don't waste it on
+                             weaker enemies.
+
+6. Rocket Launcher         : Almost exactly the same as the granade launcher. The
+   Use: Rocket               only differences are that its range are longer and
+                             its more powerful. Save this for boss fight.
+
+7. Lightning Gun           : One of my favorite weapons. It is powerful and hits
+   Use: Battery Charger      fast. Best of all, you can hit multiple enemies with
+                             this weapon. The bad thing is, it finsishes the battery
+                             pretty fast and the hit range are short.
+
+8. Photoelectric Pulsar    : Useless. Although it is the most powerful weapon in
+   Use: Battery Charger      the game, but it takes a long time to charge before
+                             you fire the weapon. Before the weapon finish charging,
+                             the enemies usually already approach and attack you.
+                             It's only useful against slower enemies like the
+                             zombies. But when you get this weapon, there's already
+                             no more zombie for you to play with...
+
+
+===================
+3. WALKTHROUGH:
+===================
+
+WARNING: This walkthrough might contain spoilers. So read at your own risk!
+
+Disc 1 Walkthrough:
+-------------------
+
+After watching the beautifully done FMV, you will be given a choice to
+choose your character: Edward Carnby and Aline Cedrac.
+
+Edward Carnby: Begins with a double-barreled gun. The hero from the
+               previous Alone In The Dark series.
+Aline Cedrac: Begins with... well... a REALLY POWERFUL... torchlight. ;)
+
+Choose your character and begin the game.
+
+Note: I suggest you playing as Carnby first. This is because his puzzles
+      are more easier to solve than Aline's puzzles.
+
+===================
+3.1. EDWARD CARNBY:
+===================
+
+The wood:
+---------
+
+If you choose Edward Carnby, you will start in the middle of the wood.
+There are two main paths there, left and right. The left is blocked by
+a locked gate so go right. After a short walk Aline will call you. After
+the conversation, continue walking until you arrive infront of an empty
+house. Enter it and you meet with an injured man. He looks badly injured
+and he had lost one of his arm. Yikes! After talking with him, remember to
+press X to receive a small bronze key. You won't see it lying on the floor
+and it's kinda hard to get it. After that, get out of the house and
+continue your journey. After a short walk, you will hear two sounds of gun
+shot. You can choose whether to go back or not. If you decide to go back,
+you will discover that the men is gone. Ewwww... looks it isn't going to
+be an easy journey for you. ;)
+
+outside the manor:
+------------------
+
+Use the key to unlock the locked gate and enter it. A FMV will take
+place. After watching, pick up a box of magnesium bullets on the side
+of the road. Open the gate on the upper screen and enter. After a short
+walk another FMV will begin. After that, pick up 2 boxes of magnesium
+bullets on the road. Continue going up and you will see a first-aid kit
+on the sculpture. Pick it up and go back to where you came in and walk up
+the stairs. Here, you will meet your first enemy. The dog. Use you double-
+barreled gun to shoot it a few times and it will die. The double-barreled
+gun is useful against smaller enemies. So Remember to switch weapon when you
+are facing against bigger enemies AND save your bullets. Try to make each
+shot counts, or else you will be in serious trouble for not having enough
+bullets later. You can avoid those dogs easily to don't confront them if
+it's not necessery.
+
+You can choose either way to continue 'cause you will ended up in the same
+place. After you reach the staircase walk up and enter the gate. Continue
+going up you will see a gate down the screen. It's locked so ignore it.
+Another scene will takes place and continue going a monster will suddenly
+appear out of nowhere. This creature takes a lot of bullets to kill so I
+strongly advise you to avoid them. Walk down the stair and enter the gate.
+Turn right and activate the valve to drain the water so you can proceed on
+your journey. Another monster will appear so ignore it and walk down the
+stair and enter the aqueduct.
+
+aqueduct:
+---------
+
+It's pretty straightforward here so keep going up until you reach an open
+area. When your walk to the center a monster will appear so shoot it. Don't
+try to avoid it because this will only causes you a lot of troubles. My advise
+is, after you shot it, walk a few steps and stop to wait for the monster to
+appear and shoot it again. Keep doing this and the monster will stop coming out.
+Turn right and enter the hole at the right corner. Climb up the wall and pick up
+the charm of saving and get in the door. Tada... you are now inside the manor.
+It's time to find Aline.
+
+Manor/underground cellar:
+-----------------------------
+
+Walk up the stair and enter the cellar. Pick up a box of magnesium bullets
+on the crates.There's a also a first-aid kit on the table and REMEMBER to
+pick up the triple-barrel shotgun(WOW!) lying next to the table or else you
+will be in a serious troble later on. It's kinda easy to miss it so keep your
+eyes open. Open the casket next to the locked gate. After the short FMV pick
+up the gilded key and use it to unlock the gate. The other gates in this room
+are locked so ignore them by now. Enter the gate you and walk up the stair.
+Enter the mirror door and you are now in the 1st floor lobby. The mirror door
+are now locked so that's why you should pick up the shotgun in there.
+
+Manor/lobby ground floor/ 1st &amp; 2nd floor:
+------------------------------------------
+
+When you enter, Aline will call you. She's trapped and you need to free her. There
+is a statue there, push it to the front of the mirror and you will know the password
+for the statue is H and M. A mechanism under a picture on the 1st floor will open.
+Get to the 1st floor, examine the picture and you will get a small key. Enter the
+inventory and examine the key and you will know that the key is use at the third floor.
+Don't need to hurry yet, push the cabinet next to the picture you examine just now
+aside and enter the door. You will meet Aline in there, after the conversation remember
+to pick up a few items inside the room. There is diary next the bed, read it. After
+that, search the table to receive an Acrobat Statue and a dictaphone.
+
+Note: I forgot to point out that there's a statue in this room that you need to
+      pick up. Many readers ask me where to get the statue, at first I thought
+      they didn't read my walkthrough carefully but finally I discovered it
+      was my mistake... Sorry guys!
+
+There are two doors in there but one was sealed up and the other one is the mirror.
+Enter the mirror door, walk down the stairs until you see a door, but it's sealed
+up so you can't enter. Peek through the spy hole and it looks likes some kind of
+laboratory. Pick up another charm of saving next to the sealed up door. Go back to
+where you came in. Exit the door and proceed down to ground floor. Pick up a charm
+of saving next to the main door. The main door is locked so you can't go outside yet.
+
+Enter the door behind the staircase. An old man will appear. He says he is the guardian
+of this island (I wonder how this guy survives in a house that is full of monsters).
+After the conversation the old man will disappear quickly (ghost?). This old man
+is actually Edenshaw the Indian (thanks to Iain Noble!). He will also give you a
+charm of saving.
+
+NOTE: SAVE HERE! When you reload your game you will meet Edenshaw once again, and
+      he will give you another charm for free! Repeat this process will increase
+      the amount of your charm. Don't mail me if it's not work 'cause I never
+      try it. This also works for the PC version.
+
+After that, turn left. At the end there, you can pick up a box of phosphorus
+bullets on a drawer. Enter the door at the left side of the stairs. Two
+zombies in there waiting for your arrival. It's pretty hard to avoid them so
+kill them. Go till the end and pick up a first-aid kit. Now enter the door in
+this hallway. Watch out for those small creatures hanging under the ceiling.
+
+You'll see a box of phosphorus bullets and a box of magnesium bullets on the table.
+Pick them up. Pick up the Wolf Mask and photo on the next screen. Check the picture,
+you should know there's something missing on the scale inside the glass. Go back
+to the outside. 3 zombies waiting for you there. Kill them all. Now go all the
+way 'till the end at the other side and enter the door there. The library is just
+opposite to that door but it's locked, so remember it.
+
+After you enter, there are another 2 zombies inside there waiting for you.
+Kill them. Enter that door on your left. Switch on the light first. There's
+an amphora filled with water there. Forget about it first. Now pick up the
+crowbar on the crate. Search the drawer there for Richard Morton's will and
+testament. Read it carefully. The last page contains the hint to solve the
+puzzle inside the library. Check the bookcase in the midddle for another
+book. There's also a phosphorus bullets on the opposite side of the bookcase.
+
+Read Obed's diary on a small bookcase and pick up the flask on the table.
+Now fill the flask with water in the amphora. Go to the other side, check
+the cupboard for a first-aid kit. 2 monster will appear. Unlock the door
+and exit to the lobby.
+
+Go back in the door behind the stairs again. This time turn left, go back to
+the room with a scale and a ship inside it. Use the flask filled with water
+on it. The second painting on the first floor will activate. Go back to
+the first floor and check the painting. Activate the mechanism and you will
+receive a gilded key. Examine it and it said this key should be used at first
+floor.
+
+Note: This first floor actually is the ground floor. I don't know why they
+      said it is the first floor and first floor became the second floor...
+
+Note: Thanks to one of the readers telling me that in the US there's no
+      basement or ground floor at there... :)
+
+Now go back to the ground floor. Enter the door at the back of the stairs...
+again. Turn right this time, enter the door at the end there. Kill those
+zombies and unlock the door there. Inside there, another monster will
+greet you. Kill it. Check the bookcase near the window door for a first-aid
+kit. Pick up a small gilded key on the table. There's a statue of an owl
+there. Use the wolf mask on it and you will receive a steel key. Now exit
+this room.
+
+Go in the door which is opposite the door you just came out to go to the
+lobby. Go back to the door behind the stairs. Turn left and enter door at the
+right side of the stairs. Walk up the spiral stairs and enter the attic.
+Pick up the grenade launcher first.
+
+Note: I don't know why they gives you the granade launcher while playing as
+      Carnby. I can't find a single extra grenade for the launcher even until
+      I finished the game. So, save this for the last boss anyway. :( But if
+      you manage to find the extra ammunitions, pls tell me.
+
+Continue go to the locked door and Aline will call you. She said there's some
+sort of trapdoor under the floor in the attic. Many people thought the trap
+door is in this room. It's actually not. So don't waste your time running around
+in this room and trying to find the trapdoor. This makes you looks likes stupid :)
+
+Use the small rusty key to unlock the door. In there you will meet 2 monsters.
+They are extremely afraid light, so use your torch light to scare them off. Pick
+up 2 boxes of phosphorus bullets on the crate (I think). Remember to pick up
+a lighter in SE corner. It's kinda easy to miss it. Enter the other door.
+
+Nothing here, enter yet another door. In here, call Aline. She will tell you
+there's a trap door under the floor here. It's actually in the second screen so use
+the crowbar there and you will receive a small gilded key and a small key.
+
+Exit through another door. In this room, there's a lot of small monsters will
+appear and hanging under the ceiling. Try not to walk under them, or else they
+will drop down and attack you. You can pick up a box of phosphorus bullets and
+a box of magnesium bullets on the cupboard. At the end you will see a candle on
+the crate. Use your lighter here. The candle will lid up. Click on the wall there
+and you should hear some &quot;click&quot; sound. Use the crowbar to break open and enter.
+
+You will meet another two monsters in here. Quickly switch on the light in this
+room and they will disappear. The door next to the switch is locked so use the
+small gilded key to unlock it. But don't go in yet. Enter another on the opposite
+side. Before that, pick up the first-aid kit there. In there, you will meet
+Lucy (what a tough old lady, staying in this manor without afraid those creepy
+monsters). Back to the door you just unlocked and enter.
+
+Go down the spiral stairs and when you see the first door, unlock it. This door
+leads to the 1st floor. Go in. Enter door on the right. You are now inside
+Alan's office. Pick up the first-aid kit near the gun rack. You can read Alan's
+note on the table. The drawer is locked so use the small key that you found under
+the floor to unlock it. Receive a large ornate key and a half-picture. Examine
+the numbers behind the picture.
+
+Go out, go 'till the end of the corridor and turn left. Also go 'till the end until
+you see a bust of Richard Morton. Use the steel key to unlock the door. Inside,
+get the large ornate key and a charm of saving on a small chair in front of a
+bookcase. Check the bookcase also for a box of phosphorus bullets. Pick up another
+half picture on the table and read the letter. Combine the two half pictures and
+add up the numbers behind. You will find out it's 3926. Before you exit, read the
+diary next to the bed. Now you have both keys for the library, but don't hurry to
+go there yet.
+
+Exit the bedroom, go to the switch there and switch it on. Enter door on the left
+side of the switch. It looks likes a bedroom. When you get near the bed, three
+tentacles will emerge from the bed and throw you back like toy. Ouch..! Shoot the lamp
+hanging under the ceiling and burn this monsters to its homeland. Hehehe... never
+mess with me you little punk! :-D
+
+Pick up the rocket launcher and 3 boxes of phosphorus bullets on the table. There
+are also a first-aid kit and a charm of saving on the fireplace. After that, there's
+nothing more here. Go out. Now it's time to go to the library to finish your business
+here in the manor.
+
+Library:
+--------
+
+Remember the door I told you to remember before. Go there, use the large ornate key
+you found in Obed's room to unlock it. Enter, and a FMV sequence will play. Wow!
+The library looks pretty impressive huh and... pretty untidy. :) After the FMV,
+Carnby will call Aline. After the conversation, switch on the light. Use the extra
+ornate key to unlock the next door. There's nothing inside so don't waste time
+searching in there.
+
+First of all, there are two main puzzles you need to solve it. Lets get to the easier
+one dirst. Before that, read the diary on the table and the Morton Family's biography.
+
+Hint: The last page of the biography contains vital information to solve a puzzle.
+
+Now, go up the stairs. Pick up a box of rocket along the way. You will see a panel
+on the second floor of the library.
+
+Check it and you will be asked to enter four codes. Think for the code before you
+continue reading. Still can't solve it? Try to think harder. Okay, I'll give you
+another hint, the picture. get it? If you still don't get it well then, I'll give
+you the code. It's 3926. Enter it. A bookcase behind you will open.
+
+Inside there, as usual, switch on light first. Now check the wall, you will see
+several statues piled on top of one another but the top is missing. So, use your
+acrobat statue here and a panel will reveal. You don't know the code yet so waste
+time guessing the code. Search the bookcase for a paper.
+
+Note: Many people missed the acrobat statue while they first met Aline. It's
+      actually in that room where Aline had been trapped in. Search the drawer
+      for this.
+
+The words on the paper is,
+THE KEY TO THE PORTRAITS IS THE DATES THOSE THEY REPRESENT WERE BORN ON
+Guess what it's mean first. You definitely need it later.
+
+Before you exit, pick up the telescope on the crate. Continue going up until you
+see a ladder. Climb up and go to the rooftop. Enter the tower there. Pick up a charm
+of saving on a barrel. Now use the telescope near the window. Increase the magnification
+toward the fort's window and you see a set of numbers carved on it. It's 1692. That's
+the code for the panel in the secret room. Go back down and enter the code. After
+that, one of the painting's mechanism in the first floor will activate. Don't
+hurry yet. There's still another puzzle you need to solve here. Before that, I
+STRONGLY SUGGEST YOU SAVE YOUR GAME HERE. You will know why later.
+
+Now it's time to activate four books in the library. There are four books hidden
+inside the bookcases. You can't find them by using the torchlight and they are
+all well hidden. You need to push in all those books in the correct order. I
+had drawed two diagrams here to let you know the locations of those books.
+
+                                            Book 1 (end of the walkway)
+                         ---------------------------
+                        _                      X    . _
+                       _                         .     _
+                      _                        .        _
+                     _                       .           _
+                    _                      down          _
+Third floor        _                                      _
+                    _                                    _
+                     _                                  _
+                      _                                _
+                       _                              _
+                        _                         X  _
+                         ----------------------------
+                                               Book 4
+
+
+
+                                            Book 3
+                         ---------------------------
+                        _                      X    . _
+                       _                         .     _
+                      _                        .        _
+                     _                       .           _
+                    _                      UP             _
+ First floor       _                                      _
+                    _                                    _
+                     _                                  _
+                      _                                _
+                       _                              _
+                        _                         X  _
+                         ----------------------------
+                                  Main Door       Book 2
+
+
+                          Book 1, 2, 3 and 4: Push these books
+                                              in this correct
+                                              order.
+
+NOTE: The book 1 and at the end of the walkway on the third floor.
+
+When you activate the third book and walk up the stairs, a FMV will play.
+Now be prepared for a boss fight!
+
+Boss: You really need to kill this boss before you push in the last book. He
+      is pretty tough to bring down and he flying around and this makes him
+      pretty hard to hit with your rocket launcher. The way to beat him is stand
+      still there. Wait for him to attack, after that quickly hit him with
+      your rocket or whatever you still have. This should blast the monster
+      away. Wait for him to fly back and repeat the process. He should be
+      down in no time. Make sure you have at least 3 first-aid kits left in
+      your inventory before fighting him 'cause his attack hits hard and fast.
+
+Here's another way to beat the boos and it's summitted by a reader, thanks!
+
+When you hit him for the first time or just after he lies back, he covers
+his head with his wings, then opens them wide to zap you. He is vulnerable
+in that position.
+So my advice is: hit him once with the pistol, then quickly change to the
+rocket launcher and hit him while he is exposed, just before he has time to
+attack you.
+You will have to anticipate and hit repeatedly your attack key while the
+weapons menu fades out, because you have very little time.
+
+That way I didn't have to use even a single medkit.
+
+(Thanks to Toussaint 'spyro' Guglielmi [from France])
+
+After that, push in the last book. The last painting in the 1st floor will now
+activate. Now go back to the paintings there, activate the left painting and you
+should receive a small bronze key and a plasma cannon. The plasma cannon are
+pretty powerful but the range of fire is very very short. You need to go near
+the enemies in order to hit them. Activate the last painting which is the
+third one from the left. You will receive an engraved metallic piece. REMEMBER!
+Examine the plate to know the codes for the lock at the beginning of the game. Yes,
+you have to go back there. (hope you won't mind... hehehe... :)
+
+Now, you can enter codes for all the paintings right now. The panel is open.
+Enter from left to right. You can find the codes for each painting by reading
+Morton family's biography. The follwoing are their date of birth.
+
+Richard Morton - 1852
+Archibald Morton - 1874
+Jeremy Morton - 1899
+Howard Morton - 1931
+
+After you enter them, the clock on ground floor will open. Go down there and
+pick up the key inside to clock. It's use to unlock the main door. Unlock it
+and go outside the manor.
+
+Manor's garden:
+---------------
+
+Pick up the charm of saving near the gate first. Now go to the back of the manor
+and you should see a kennel. Search it for 2 first-aid kits and a gas cartridge for
+the plasma cannon. Now go back to the gate and use the key to unlock it. Now
+you should know the way back to the start of the game so I won't repeat anymore.
+Enter the correct icons for the lock and you should be able to unlocked it.
+Enter and you will be asked to insert disc 2!
+
+ATTENTION: Many readers asked me where they could find the right combination of
+           the lock. GO TO YOUR inventory to examine the engraved cube then you
+           WILL KNOW the combination of the lock! ALWAYS EXAMINE YOUR KEY ITEMS!
+
+Note: You might wonder why there's still key left in your inventory. Those are
+      actually the key to unlock some doors inside the manor. They are actually
+      lead to the place you had been before. So don't worry.
+
+
+==================
+3.2. Aline Cedrac:
+==================
+
+Manor/ Third floor:
+-------------------
+
+Aline will start at the roof top of the manor. Climb into the window and you will meet
+an old lady lying on a bed (shhhhss... doesn't she have to eat or drink? How can she
+survive in a place like this? It's really confused me). After the conversation with her,
+she will give you a small bronze key. Search the room for other items. When you try to
+leave the room, a monster will suddenly come out. All you need to do is flash your
+torchlight towards him and he will disapear after a while. Go out the room and you will
+meet two monsters. Run straight ahead and quickly switch on the light, the monsters will
+disapear. Go back and turn right. Pick up a charm of saving and enter the door on your
+left. There is a box of phosphorus cartridges on a barrel and another charm of saving
+on a table. Enter the door in front of the table where you picked up the charm.
+
+Now you are in a hallway. Walk straight ahead and enter the door. Pick up a small
+gilded key on the table and a first-aid kit on the crate. There's also a box of magnesium
+bullets in the room. The door in here is locked so go back. Go back to the room where
+you switched on the light just now. Unlock the door next to the switch by using that
+key you found just now and enter. Go down the spiral stairs and you will overhear two
+men talking. It looks like one of them is Professor Obed. After that, continue going
+down and enter the door. You are now on the ground floor.
+
+Manor/ ground floor:
+-------------------
+
+Now enter the door on your left. Switch off the light and go check the statue. Use
+the key that old woman gave you to unlock it and receive a revolver. It's not quite
+as power as Carnby's modified revolver but it's better that the torch light in anyway.
+A monster will come out of nowhere after you picked up the revolver. Avoid it to save
+bullets and go straight to the window and you will hear someone unlock the door next
+to the window for you. Enter it and you will see Professor Morton running away (Oh
+man... I can't believe Aline just let him go and stand there just watching and
+shouting...). Go straight up and enter the last door. Switch on the light there and
+enter the door at the left side of the staircase. Keep going till the end and you
+will meet Professor Morton. After a short conversation and he will attack Aline. Aline
+will wake up and she's trapped in a room on 1st floor (did you notice that her jacket
+is missing...? Naughty naughty professor... ;).
+
+Manor/ 1st floor:
+-----------------
+
+After the conversation with Carnby, check the drawer to receive an allen wrench and three
+first-aid kits. You can also read Alan's Diary which is next to the bed. There's a Charm
+of saving on the chair there. Now, enter the mirror door and go down the stair. Watch
+carefully when you arrive the first door, there's a shotgun lying there and it's kinda easy
+to miss it. Pick it up and enter the door. Continue going down and proceed near the door.
+A scene will take place. After that, pick up yet another first-aid kit on the floor there.
+Go back to the room and you will meet with Carnby. Aline refuse to stick with Carnby and
+insist to go by herself (why...?). With Carnby's help, you are now in a room on 2nd floor.
+
+Manor/ 2nd floor:
+-----------------
+
+You will found a talking mirror and he tells you to help him to find his mirror. After
+that, he will disapear. Now unlock the door there and enter. Go find the old lady and talk
+with her again. After that, go out and enter the door next to the switch. Go down the
+stair and enter the door which you overheard two men talking inside. It's now unlocked.
+After that, enter the door on your left. Inside the room, there's a first-aid kit next
+to the gun rack. Pick up the mirror and a grenade launcher under the table. Go out when
+you are done. Continue walk straight and you will see blood coming out from a room
+and then many small creatures which look like some kind of insect dropping down from
+the ceiling. You can avoid them easily by running so don't waste your bullet on them.
+
+Enter the door which on the left side of light's switch. It looks like a bedroom and
+there are some creppy sounds that keep calling Aline (oooohhhh... spooky...). Anyway,
+Pick up a box of phosphorus bullets and go to the right side of the bed. Decerto will
+talk to you again. Enter the mirror and you will be given two choices whether give
+him the mirror or not. Choose No and you will kill Decerto. If you choose Yes, he will
+use the mirror to turn Aline into a monster which is mean that you are game over.
+
+You will receive an Abkanis Statue. Go out the mirror and you will meet Edenshaw.
+He will congratulate you for killing Decerto. After the conversation with him,
+Aline will call Carnby. After that, unlock the door next to the door where you
+just came in and enter it. Now go back to the lobby.
+
+Manor/ ground floor:
+--------------------
+
+Now enter the door at the back of the staircase. Go to the door at the end of the
+right and enter. Two zombies waiting for you there, try to avoid them to save
+bullets 'cause they will keep coming out even though you had killed them. Enter
+the door on your right. Pick up a box of Magnesium bullets on the round table.
+You will see a big mirror there, pull out your revolver and shoot the mirror. Read
+the book inside the mirror. Don't forget to obtain two other books in this room.
+One is on the table and the other one is in the bookshelf. There's also a scroll
+next to the mirror you broke just now. Go find the old lady... haa..... again.
+
+Note: I had found a terrible bug here. When you exit this room through the other
+      door, you instantly stop at Lucy's room which is the old lady. This is sooo...
+      weird because this door was suppose to go out to the lobby. If you also
+      encounter this weird bug then please let me know.
+
+Note: Thanks to Iain Noble telling me this isn't a bug. It will definately happen
+      when you exit that door. But why don't the developer makes it more noticeable.
+
+After talking with her she will give you a Glass Prism (wonder why don't she gives
+it to you earlier) ;) Your next destination now is Library which is located on the
+ground floor. Enter the door behind the staircase. Go to the right side and you can
+find the library.
+
+Note: Go back to Alan's office and use the Glass Prism on the projector.
+
+Manor/ library ground floor:
+----------------------------
+
+Switch on the light first. You can read Jeremy Morton's diary on the desk and on the
+lectern for Morton's family biography. Pick up a box of grenades next to the lectern.
+Now, it's time to do what you should do here. There are 4 bookcases in the middle of
+the library. Examine the middle one on the right side. You should found a book which
+let you enter 4 codes. The code is 1991.
+
+Note: I still don't figure out how to obtain this password. I get it from the
+      GameFAQs' forum. I'll try to figure out myself and you can also tell me if
+      you know.
+
+Note: I found out how to obtain the password. Use the glass prism that Lucy gave you
+      on the projector in Alan's office. After that, switch on your torchlight,
+      a little FMV will play. After that you will recieve an engraved cube. Examine
+      it for the password. (Thanks to Laurent Franchet from DarkWorks telling me
+      this, I really appreaciate it!)
+
+Enter the secret room. Inside you can get the Arkanis Tablets, 3 first-aid kits, a
+charm of saving and a box of grenades. Pull the switch after you receive those items.
+A FMV will play. Now be prepared for a boss fight!
+
+Boss: This boss looks a lot like the Tyrant in Resident Evil 1. The only different
+      is that his claws aren't as long as Tyrant. The strategy to beat this boss
+      without wasting too much grenades is only attack him when he finish attack you.
+      My plan is, run around the library and after he attacks and misses you, turn
+      back and shoot him with your grenade launcher. Run again and repeat. He should
+      be downed in 5 or 6 shots.
+
+After beating the boss check the huge cylinder to receive half of the medallion. Now
+go up the staircase in the library and enter the secret room behind the bookcase.
+Pick up 3 boxes of phosphorus bullets on the floor. Continue going up. Climb up the
+ladder and enter the tower there. There is another box of grenade on the floor.
+Go back to the library and exit. You'll automatically ended up in Lucy's room. After
+the conversation, Lucy will give you the other half of the medallion. Combine them.
+
+A cut-scene will play, oh my... the boss is awake! Anyway, go back to the lobby and
+use the medallion on the mirror and you will unlock the mirror door. Enter and
+go down. You are now in the underground store room. There is a trap door there.
+Climb up the ladder and Aline will use the allen wrench to unlock the trap door to
+gain access to the greenhouse.
+
+Manor/ greenhouse:
+------------------
+
+You will meet Edenshaw again. He will disapear after the conversation (again...).
+There's a box of grenades on a crate near the locker. After you pick it up, exit
+the greenhouse.
+
+Outside manor/ garden/ cemetery:
+--------------------------------
+
+The stupid boss you fought in the library just now will jump out from window.
+You can just ignore him and enter the small gate there directly. The boss will
+keep chasing you so just run. Enter the gate and keep going straight 'till the
+end. You can pick up 2 boxes of phosphorus bullets there. Two zombies dogs will
+come after you. Kill them. Remember to pick up the charm of saving and a box
+of grenade on the floor.
+
+Go back and turn left while avoiding the boss. You will see a small house near
+the church. Enter it. Finally you can get rid of the boss here. Find the tomb
+which carved Jeremy Morton and enter it. Pick up a box of rockets and the rocket
+launcher there. Another first-aid kit near the casket. Pick it up and investigate
+the casket. You will receive a metal cover. Combine it with your torch light.
+
+There is a message carved on the casket which said, &quot;only the symbol of light
+will open the tomb&quot;. Go out and check the wall in front of the door which you
+just came in. There are total 13 shining things on the wall which should be
+looked like this.
+
+                                o     o     o
+
+                                   o     o
+
+                                o     o     o
+
+                                   o     o
+
+                                o     o     o
+
+Use you torch light, which you just combined with the metal cover just now to
+light up each &quot;button&quot; in the correct order.
+
+                             3  x     o     x  7
+
+                                  4x     6x
+
+                             2  x    5x     x  8
+
+                                   o      o
+
+                             1  x     o     x  9
+
+                       x = this is the button which you need
+                           to light up.
+
+                  number= you need to light up each button
+                           in this correct order.
+
+If you do this correctly, the tombstone name Richard Morton will unlocked.
+Enter, check the corpse for another document. Just keep going straight and
+ignore the monsters. Exit and go over the outcrop. Hooo laaa... you just
+finished disc 1. Pop in the disc 2 and continue on your journey. Disc 2's
+puzzles are quite frustrating and long.
+
+Disc 2 walkthrough:
+-------------------
+
+===================
+3.3. Edward Carnby:
+===================
+
+The moor:
+---------
+
+First of all, check that disgusting corpse for 2 first-aid kits and a gas
+cartridge. Now walk across the bridge. Aline will call you. After the
+conversation continue foward. When you reach the altar, the bridge behind you
+will collapse.
+
+Go up to the altar and check the biggest stele with cross on it. Choose north
+as the stele direction. Now just follow Aline's order and do as she says. In
+the end she will tell you that the east stele is the stele that you need to
+perform the incantation. Select the correct order of the spell words.
+
+Note: You need to press R2 to contact Aline. If you at the wrong stele, Carnby
+      will ask Aline which stele he needs to check. If you at the correct stele,
+      Aline will ask you to check the other stele. Hope you will know which
+      direction is east, west... don't mail me asking which one is the west 
+      stele. 
+
+The correct order is O goul'al, Hypor, Harnis, Korna. After that, a blue light
+appear in the central plinth. Check it to receive a Stone Stele and an Abkanis
+Statue. Your job here is finished so continue on your journey. Beware of giant
+scorpion on your way there.
+
+Aline will call you eventually and they have to meet right away. Now continue
+going until you reach a ladder. Climb up, and go in the cave. Pick up two boxes
+of rockets here. After that, go back down. Continue going until you reach the
+swamp.
+
+The swamp:
+----------
+
+Beware of those zombies, there are quite a lot in here. Try to avoid them to
+save bullet. Keep going to the left, you will see the plane. Finally you found
+it! Go into the plane. Pick up 3 first-aid kits, a wire cutter and a blue lens.
+There's also a box of rockets on the seat. Now talk to the pilot (hey, I thought
+he was already dead...!) and looks like he's already half-mad. After talking
+with him, the plane will start sinking. You can't save the pilot so don't try
+this at home. ;) Quickly go out before the time runs out. A FMV will play.
+(I felt kinda sorry to that pilot, but... it ain't my business right?) :)
+
+Go back the swamp and be prepared to fight the hardess boss in the game...
+just kidding. Nothing really in here, just those dumb zombies. ;) Exit
+the swamp by going north. When you enter the next area, you will see an
+abandoned church in front of you. Don't go in there yet. Instead, go left
+and walk up the wooden stairs. You will meet Aline.
+
+She will give you a seal inexchange for the stone disk. Now go back to
+the church. The door is locked by chain, so use the wire cutter you'd got
+in the plane on it. Now go inside.
+
+The church:
+-----------
+
+Pick up a first-aid kit on a crate and a box of rockets on the altar.
+Now read the book on the table. Notice there is a panel next to the door?
+Check it and you need to enter three correct pictures to activate it.
+If you want to find out yourself, combine the blue lens with
+your torchlight and search for the blood symbols. There's one on the church's
+door. The other two is at the outside, follow the blood trail and you should
+be able to find them.
+
+The panel should looks likes this, I use number to represent the pictures
+'cause I can't draw it here :)
+
+                                1     2     3
+
+                                4     5     6
+
+                                7     8     9
+
+Press picture 3, 5 and 9. The altar will move back and reveals a stairs. Go
+down. Use the seal you got from Aline on the panel to turn the turnstile. Go straight,
+you will see another panel but you need another seal to activate it so leave it.
+Enter the laboratory.
+
+The underground laboratory:
+---------------------------
+
+When you are in there, you might wonder why you can't use the switch. Don't worry
+about that yet. Continue going, you can pick up a charm of saving near a cage. At
+there, don't turn to left. Instead, continue going straight. A cut-scene will
+trigger. It's Alan and he's is examining a monster's corpse. Yikes... disgusting!
+Anyway, he will discover Carnby is there and escape. After that he will turns off
+the current in the laboratory and locks all the doors. (#@$%*^%... what a tricky
+old man...)
+
+Aline will call and come to save the day... Just follow her instruction and
+activate all three swichtes in the laboratory. Beware of zombies. The door next to the
+operation table will now unlock and you can escape now. Before that, remember to
+read the letter on the table. Aline will tell you that she's already unlock the trapdoor
+inside the underground store room for you (ohhh... how nice...). So, exit the lab.
+
+There's nothing really in this area... except those &quot;friendly&quot; monsters of course. :)
+So just keep going straight until you reach a room with 2 doors there. Enter the
+door which is not lock. In there, listen to the tape recorder. You can know the
+Morton brothers is working with Lamb (of course you knew it already).
+
+After that go back out, unlock the other door and enter. Now you are back at the
+underground cellar. Before you go up the trapdoor, you will meet edenshaw. He
+will disappear as usual so go up the trapdoor. Now you are inside the greenhouse.
+
+The greenhouse:
+---------------
+
+There's a box of phosphorus bullet in a cupboard. After you pick it up, climb the
+ladder there. Push down the statue... cough... cough... Resident... Evil... x_x and
+the statue smashes into pieces. Go back down and check the wreckage to receive a
+seal and an Abkanis statue. Go all the way back to the secret lab and back to
+the panel there. Use the seal to turn the turnstile. You are now inside a large
+cavern.
+
+Underground cavern:
+-------------------
+
+You will meet Aline in there. After the conversation, then head along the passageway.
+In the next area, head across the bridge and enter the door. There's a trapdoor
+in the alcove. Open it to receive a lighting gun, four first-aid kits, a battery
+charger and 5 charms of saving. After the go through the door at the other side.
+
+Note: The lighting gun should be your best friend here. It's pretty powerful and it
+      hits multiple enemies in a time if they are close enough with you. You can
+      refill the gun by using the battery charger. You can recharge the battery
+      charger by picking up the crystals along the way.
+
+In there, you will meet Alan and Edenshaw. Alan will try to open the gate. Carnby
+will be pulled into the gate with Alan. Now you are inside an abyss. Be warn that
+the monsters in here will keep coming out. So try not to waste your ammunition here.
+Just run if you can. After a short walk, Carnby will call Aline. After the that, keep
+heading straight. Go in another hole. From now on, your main priority is to find
+the exit to the next area. It's will getting boring here...
+</pre><pre id="faqspan-2">
+In here, avoid those dogs if you can. Kill if necessery. Find the exit, it can
+be easily located. In the next area, turn left and keep head along the passageway.
+You can find the exit. In here, you will find big giant scorpion, also kill them
+if necessery. Keep going until you find the exit.
+
+In the next carvern, there are dogs in here. Avoid them and enter hole ahead of
+you. Turn right here. When Carnby try to climb across the wall, Alan will show
+up and cut the rope. Don't worry, the hero will never die. :)
+
+Enter the hole there. You will find Archibald Morton's corpse there. Pick up
+the flask and a photoelectric pulsar. After that read the note there. Go back
+out and climb down the rope. In here, walk up the stairs and you will Alan.
+Damn... he is still got away #%@#%...! Keep after him till the next area. You
+will finally catch Alan as Aline come out at the other side. Obed shows up in
+his mutated form and puch Alan down the cliff. Poor fellow...
+
+Enter another hole after that. Head 'till the end and climb the rope. Walk
+cross the bridge and you will recive a call from Johnson. After that, (phew...
+so many after that... sorry! :) enter yet another hole... Keep heading straight
+here until you reach the exit. Enter and you are now in a carvern which is full
+of lava. Phew.. it's hot! Find the exit here and avoid those anoyning scorpion.
+
+In the next area, when you walk across the bridge, Johnson calls again. After
+that, walk to the upstairs. Keep going and find the exit until you receive a
+call from Aline. In here, a FMV will play for showing a pillar dropping down
+Walk across the pillar. There's a spring there and you can refill your flask
+here. Enter the hole.
+
+Here, you will see three statues in front of a door. Two heads are missing and
+you don't have them. Go to the next area and climb down the rock. You will
+see a statue on the top of a pile of rocks. When Carnby try to get it, Alan
+will show up in his mutated form. It's time for the boss fight and the last
+fight you will have.
+
+Boss: You can't kill him with your odinary weapons. You can only kill him by
+      finding the spear. The spear is located in a small passageway in the SW
+      corner. When you try to enter, Alan will always throw you out like toy.
+      The trick is, hit him with whatever you still have until he drop to the
+      ground. Now's your best chance to get the spear. Quicky go in there and
+      you should kill the boss already.
+
+After that, pick up the statue and go back up. Use the statue in front of the
+door. Aline will show up with another one. After she put in the last one, the
+door will open. Go in and you finish the game!
+
+==================
+3.4. Aline Cedrac:
+==================
+
+Woods:
+------
+
+The gate is locked so just keep going deeper into the wood. There are dogs
+here so just run past them if possible. When you reach the intersection,
+choose either way because they both lead to the same place.
+
+Just keep going until a FMV plays. You are now outside the fort. The main door
+are locked so you need to find other way to get in.  Before that, go right to
+pick up a box of phosphorus bullets.
+
+Climb up the rampart on the right side of the fort's door. You are now at the
+top of the fort.
+
+Fort:
+-----
+
+Walk down the stair. The door there is locked so ignore it. Down there, you can
+unlock the main door. There is another stair leading down so go down. Pick up
+a first-aid kit and keep going down the stair... (Oh my leg...!). There's a wall
+in the middle and there are 2 monsters waiting for you at the other side. Pick up the
+phosphorus bullets and go down. Ignore the monsters and go up. Inside there you
+will find 3 doors. Unlock the door which is down the screen. You will meet Obed there.
+He has lost his mind and Aline believes that he isn't her father. Pick up the
+black metallic card and a charm of saving on the floor. Go back up. Walk up the
+stair and there are two doors there. One is locked so enter the left door.
+
+This place is huge. So I draw a map here to let you know the location of all the
+items in here.
+
+                                                        ----------------------
+                                                        \  Magnesium         \
+                                                        \  x -----------\    \
+                                                        \    \          \    \
+                                                        \    \          \    \
+                    ------------------------------------     \-----     \    \
+                    \                                              \    \    \
+                    \                                              \    \    \
+           ---------                                               \    \    \
+           \                           -----------------           -----     \
+           \    	            down &lt;-----	              \		           \
+           \                           ------------\    \                    \
+           ---------                               \    \ x: Charm    --------
+                    \                              \    \              \
+                    \                              \    \              \
+                    \                                                  \
+                    \                                                  \
+                    \                                                  \
+                    \                                                  \
+            --------                                                   \
+            \                                                          \
+            \   X: Rockets                                             \
+            \                                                          \
+            --------                                                   \
+                    \                ---------------                   \
+                    \               \    -------&gt; up x: mould          \
+                    \               \    -----------                   \
+                    \ ----          \    \                             \
+                         \          \    \                             \
+                         \  X:      \    \                             \
+                         \  cannon  \    \                             \
+                      ----                                             \
+                     \                                                 \
+                     \                                                 \
+                     \----       ---------------------------------------
+                         \      \
+                         \  x   \ two first-aid kits
+                         \      \
+                          ---X---
+
+You can pick up a metallic piece on the cannon. Three monsters will appear so kill
+them all. Pick up wire cutter on the table and read the document. You will get a blueprint
+of the perforator. Now go all the way back to the wall which you climbed just now.
+Climb to the other side and enter the hole there. You will see a chest in there.
+Use the pliers to cut the chain on the chest. You will receive a large ornate rusty
+key and a steel ingot.
+
+Go all the way back to the top and use the key you had got just now to unlock
+the locked door. You are now inside the workshop.
+
+Fort/ workshop:
+---------------
+
+Read the book on the table first and pick up the orange accelerator, barrel of weapon,
+and stock of a weapon. Combine them all into a Photoelectric Pulsar (sounds powerful).
+It's not a weapon which you can equip though. Pick up 2 first-aid kits on the floor
+and a glass lens in a locker.
+
+You can switch on the light which is next to a passageway which leads to the outside.
+There's a strange machine next to the ladder. Use the mould and the steel lingot
+on the machine. You will receive a perforator barrel, combine this with tripod
+support.
+
+Note: I forgot how I get this tripod support. Somehow I forgot to write it down into
+      my note book. If I remember correctly, its original form was combined with
+      other item and you have to split them in order to get it.
+
+Note: According to Iain Noble's walkthrough, you can get the tripod support at
+      the same place where you find the blueprint. Pls refer to his walkthrough
+      for more detail explanations.
+
+Combine again with the Photoelectric Pulsar and it will become the perforator.
+But the power source is missing. Forget about it, go out through the door next to
+the light's switch. You will see a telescope there, use the blue lens on the
+telescope. You should see a big statue. Forget it. Continue going and a FMV will
+play.
+
+Damn... you dropped down into the reservoir. Now you have to find your way back to
+the top.
+
+Fort/ Reservoir:
+----------------
+
+Keep going, beware of the monster which comes out from the water. Two shots from
+the shotgun should finishes it off. Keep going 'till the end and walk up the ledge
+and enter the door there. Pick up a box of phosphorus bullets on the floor. Climb
+up the ladder.
+
+Check the chest, you will receive three color cards. Which is the golden, red and
+silver card. Now you have all the cards! Pick up the first-aid kit on the right.
+Unlock the door and exit. You are back at the telescope there.
+
+Fort:
+-----
+
+Go all the way to the bottom of the fort. Climb up the wall and go to the other side.
+Back to the room with three doors in there. Use the 4 metallic cards on the locked
+door there. The right combination of the card is,
+
+Silver, Golden, Red, Black.
+
+The door should be unlocked now. Enter, remember to pick up the plasma cannon in
+a small hole under the wall. It's kinda easy to miss. There's also a charm in this
+room. Pick up the other half-ring and combine it with the other half.
+
+Note: Again, I forgot to record down which items need to be split so you can get
+      the other matallic half-ring.
+
+Note: Also taken from Iain Noble's walkthrough, you have to slip the tripod support
+      to get the metallic half-ring.
+
+Now, go up the stair. Check the strange machine and you get a map(?). Enter these
+code into the machine. Which is actually today's date (in game, not in real life...)
+:-) It is 10 31 2001. This is the date that Carnby and Aline arrived on Shadow
+Island!
+
+A FMV sequence will trigger. Wow, what a powerful machine. All the planets in the
+Solar System are lining up toward the east (man, what kind of machine is this. It's
+even more advanced than NASA!)
+
+After that, a wall will open. You will receive a large bronze key, a seal, a small
+rusty key and an Abkanis Statue. Use the key on the locked door in the same room.
+Exit through it. You are now outside the fort. Pick up a box of grenades there.
+Check the strange statue which you used the telescope to looked at. You will have
+a conversation with Carnby. Aline will tell him they have to meet right away.
+Oh well, go all the way back to where you start at disc 2. Before that, pick up
+a charm of saving next to the statue.
+
+Wood:
+-----
+
+When you exit the fort and try to enter the wood, the stupid boss will come out
+from nowhere again (awww... why don't he just gives up. Doesn't he realizes that
+the game's heroin will never dies?) ;-)
+
+When you arrive where you start at disc 2, you will meet Carnby. He gives you the
+stone stele in exchange for the seal. After that, you will automatically back
+at the statue there. Put in the stone steler into the statue and you will receive
+a luminescent stone and an Abkanis Statue. Aline will call Carnby. Now combine
+the Stone with the ring you combined just now and the perforator.
+
+It's time to go back to the workshop.
+
+Fort/ workshop:
+---------------
+
+Climb up the ladder. Go to the top of the workshop. Use the small rusty key to
+unlock the pad lock. Go down the stair. Activate the machine in the middle to
+open the trap door first. Go down the ladder again and activate the machine there.
+Be prepared for a boss fight.
+
+Boss: It's that stupid boss again. This time you have to finish him once and for all.
+      You only have 2 minutes. If you run out of time, activate the machine again.
+      The strategy to beat him is when lightning in the middle of the room stop,
+      quickly go to the other side to lure him jumps over to you. If your timing is
+      right, the lightning should strikes down and hits the boss. He won't jump if
+      the lighting are still there. Hit him 3 times with the lighting and he'll will
+      die.
+
+Now, turn off the machine and reactivate it. This time you have to be fast. You need
+to go all the way down to the room with the cannon before the time runs out. You
+will encounter enemies along the way but ignore them. When you reach there in time,
+use the perforator on the cannon and a FMV sequence will trigger. Go in the hole and
+you are now inside an underground cave.
+
+Underground cave/ last dungeon:
+-------------------------------
+
+Pick up the photoelectric Pulsar. Climb down the ledge. Two monsters will rush
+toward you. Run as fast as you can to avoid them. Walk across the bridge and enter
+another cave. Now walk all the way down the stair and enter another hole.
+
+Keep going down and you will meet Carnby eventually. Just follow him. After that
+just go through the other cave. There's another bridge there so walk across it.
+You will see a big building in front of you. Enter through the door.
+
+Along the way, there's a trap door on the right side. REMEMBER to open it or else
+you gonna be sorry. There's a lot of things inside the trapdoor. You will receive
+5 first-aid kits, a battery charger, a lighting gun, and 5 charms of savings.
+
+After that you won't get any bullets for your shotgun, revolver, rocket and grenade
+launcher in the next area. The lighting gun now is your best friend. It's powerful
+and can hits multiple enemies at a time. You need to recharge it by using the
+battery charger. You can recharge your battery charger by picking up the crystal
+along the way. There's plenty of them so don't worry about searching for them.
+
+Go out the building. You will meet Alan Morton and Edenshaw. It looks like Alan
+gonna perform the ritual. After that, a FMV sequence will trigger. Damn... Carnby
+been sucked into the door. After the conversation with Edenshaw, enter the door
+that Carnby been sucked into it.
+
+Keep going down, you will see crystals along the way. There are plenty of them so
+I'm not gonna tell you the exact locations because they are easy to spot. The
+monsters in this area will kept respawning so don't waste time to fight them.
+Just keep running. Of course, kill if necessary. You can read the stone. Other
+than that, keep going.
+
+Now turn left, climb up the higher ground and walk down. Climb up another high
+ground and keep going. Exit through the hole there. A cut-scene will trigger.
+After that, just go down.  There are dogs here along the way so avoid them. Half
+way through, Aline will automatically climb up the ladder there.
+
+You are now outside the Abkanis Temple.
+
+Abkanis Temple:
+---------------
+
+There are dogs in this place, don't bother killing them 'cause they keep respawning.
+You will see a ladder leading up there, ignore it first. Now go up the stair and
+enter the temple. There's only one way here so keep going. After that, a FMV will play.
+You will see some kind of an altar in the middle of this room.
+
+There are total seven switches on the altar. Depending on where you stand, the wall
+behind you will open if you press the button. Collect 6 seals in here and go out.
+Back to the ladder which I told you ignored it before. Now climb up the ladder and
+enter go down the hole. Pick up the Indian Skin Flasks first. You can refill the
+flask at the fountain which Edenshaw told you before.
+
+Notice that there are 6 stones behind the ladder, put each seal into each correct
+stone. You will know which seal should be put in by looking at the animal on
+the seal. After you put in all the seals, the hole on the floor which blocked
+you can now walk over. Pick up a stone pyramid and a charm of saving. Go back
+to the temple.
+
+Inside the temple, use the stone pyramid in front of a huge statue. There a
+mechanism in front of it and you can spot it easily. Put in the stone pyramid
+and trigger a FMV sequence. Wow... the views in the temple are gorgeous. You
+will receive a stone head statue on the mechanism which you put in the stone
+pyramid. A cut-scene will trigger.
+
+Now go back down to the cave.
+
+Cave:
+-----
+
+Continue going down here. You are now inside a room full of lava, Whew...
+it's hot! :( Keep going until you find the exit which is between the two holes.
+Just keep going here until you arrive at a bridge. Remember here, you need to
+come back later.
+
+Cross over the bridge and keep going. You should see a strange green fountain
+at the wall there. You can refill your flasks here. Now scale up the wall and
+keep going. Another FMV. You see Alan climb down the bridge. So, go back down
+to the bridge. Climb down the rope.
+
+Another FMV. Obed been turned into a monster! He jump to Alan and push him down
+the cliff. Aline will go down after the last statue. Congratulation! You found the
+last statue. It's time for final show down. Aline will call carnby, telling him
+she found the last statue. Now enter the little hole there.
+
+Jump down and you will meet the four-legged giant monsters here. Ignore them and
+keep going. Eventually Johnson will call you. After that, continue going. You
+are now inside a room full of water. Drop down and go right. Keep going straight
+here and beware for monsters.
+
+Climb up the ledge and Johnson calls again. Jump down. Regconise this place? Go back
+up. A FMV will play. One of the pillar will drop down. When you try to cross, you
+will meet Obed which is your last ehhh... cough... cough... x_x &quot;boss&quot;.
+
+Boss: I can't SAY this guy really is a boss. You can't kill him. He just designed to
+      block your way on the pillar. The way to &quot;beat&quot; him is wait for him to walk
+      far across from you. Now pull out your lighting gun and use it to stun him. Now
+      is your chance to run across him. Easy huh... :-x
+
+Note: According to Iain Noble's walkthrough, you can actually kill the boss. So it's
+      obvious enough that you can choose whether to kill the boss or not. It really
+      doesn't matter though, 'cause there's only one ending and both Aline and Carnby
+      share the same ending... :(
+
+Go in the hole. In there you will see three statues. Two heads are missing so use
+one of your statue here. Carnby will show up and put in the last one. The door
+behind the statues will open and enter it. Hoooo laaaa... you just finished playing
+as Aline! Enjoy the ending.
+
+======================
+4. Hints:
+======================
+
+-Don't waste your ammo easily on the beginning of the game, you will really need them
+ when you get inside the manor. Especially playing as Aline.
+
+-The revolver is useful especially against smaller enemies so don't waste your revolver's
+ bullets on bigger enemies like the zombies.
+
+-Shotgun is useful against bigger enemies likes the zombies. You can only damage one
+ enemy at a time with the shotgun so don't expect to kill a lot of monsters in one go.
+
+-Always switch on the light if there is a switch. Some monsters won't come out if
+ you switch on the light. If you playing as Aline, some puzzles required you to switch
+ off the light in order to solve it.
+
+-Only use the charm when you solve a certain puzzles, or else you won't have enough
+ of them. Remember, always make a backup save so you won't have to worry about
+ restarting your game if you make some terrible mistakes like wasting all your bullets
+ and save the game accidentally. You will always have a chance to correct your mistake
+ if you make a backup save.
+
+-Always make sure what is your next destination. By this way you can save your precious
+ bullets a lot.
+
+-Some monsters can be avoided easily. Don't waste your bullets on them. When you encounter
+ them... RUN.
+
+-Sometimes pressing R2 can helps you know the game's story more.
+
+-The torch light can makes obtainable items blinking so you can easily spot
+ them.
+
+-Always use the examine option in the inventory to examine your key items. It
+ usually will tell you where you should use the item. Ahh... don't forget, you
+ can zoom in and out by pressing L1 and R1.
+
+-The notebook for each character can gives you some ideas for where you should go
+ next.
+
+-Always recheck the room when you load your saved game if you save in a room. Some
+ items will still remain in their original locations even though you had picked them
+ up before you save your game.
+
+-You can actually use the left stick to control the torch light.
+
+-The crystals in the last dungeon will respawn after you picked them up. Wait for
+ them to reappear if you run out of it.
+
+===========
+Secret:
+===========
+
+There are no secrets in game. Yeah, you will get no bonuses after you beat the game.
+
+================
+Gameshark Codes:
+================
+
+INF HEALTH          :801450D8 0032
+
+INF WEAPONS (NOTE)  :80141570 0000
+                    :801452C8 0000
+                    :801452D0 0009
+                    :80145300 0005
+                    :80141570 0005*
+                    :801452C8 0005*
+
+* = These two codes are for the handgun and revolver.
+
+
+NOTE:THIS CODES IS NOT USE WITH HANDGUN AND
+     REVOLVER BUT IS USE WITH SHOTGUN AND ETC
+
+
+Thanks to CHRISS BENOIT &lt;devil_gs@yahoo.com&gt;
+
+There's a lot more codes sent in by other readers. I don't know what's the
+different of heavier cheat devices and normal cheat devices. You can mail him.
+All these codes is for the normal cheat devices. I lost the previous one so
+I will try to add in soon.
+
+ 1 Infinite Health                    801450D8 0064
+ 2 Item Enable Code [Note 1]          801451C0 004F
+   Have Weapons
+ 3 Sniper Rifle                       8014524E 0063
+ 4 Photoelectric Pulsar               80145250 0059
+ 5 Magnesium Flare                    80145258 0065
+ 6 Tripled-Barreled Gun               8014525C 0066
+ 7 Rocket Launcher                    80145260 0069
+ 8 Grenade Launcher                   80145264 006A
+ 9 Lightning Gun                      80145268 006B
+ 10 Plasma Cannon                     8014526C 006D
+ Infinite Ammo
+ 11  Sniper Rifle Ammo                8014524C 0017
+ 12 Revolver                          801452C8 0063
+ 13 Tripled-Barreled Gun              801452D0 0063
+ 14 Photoelectric Pulsar              801452D8 000A
+ 15 Rocket Launcher                   801452E8 0064
+ 16 Plasma Cannon                     801452F8 0064
+ 17 Grenade Launcher                  80145300 0063
+ 18 Lightning Gun                     80145308 007E
+
+
+ Note 1: With this code, it must be active for the weapon, items, and document
+ codes to work.
+
+PAL Version only:
+-----------------
+
+Never saved
+     
+7431 6BFB 15C8
+3431 6BFB 15C9
+
+4 Infinite health 3431 5A0E E430
+
+WEAPONRY
+
+5 Infinite ammo all weapons (Note 1)      8426 1545 8D9D
+6 Ammo increases (Note 1) 7426 1541 9D8A
+ 3426 1545 8DBC
+
+Have ammo for :
+
+7       Customized revolver     3431 581E D205
+8       Triple barreled shotgun 3431 5806 E22D
+9       Rocket launcher 3431 583E D2E5
+10      Grenade launcher        3431 59D7 D3FC
+
+Always at 100% :
+
+11      Plasma cannon   3431 582E E212
+12      Photoelectric pulsar    3431 580E E25C
+13      Magnesium flare 3431 5836 D274
+14      Lightning gun   3431 59DF D3D7
+
+INVENTORY
+
+15      Activation-Code (Must be on)    7431 5B17 D555
+3431 5B17 D569
+
+ Modifiers
+
+ 16      Slot 1  3014 51C4 00??
+ 17      Slot 2  3014 51C8 00??
+ 18      Slot 3  3014 51CC 00??
+ 19      Slot 4  3014 51D0 00??
+ 20      Slot 5  3014 51D4 00??
+ 21      Slot 6  3014 51D8 00??
+ 22      Slot 7  3014 51DC 00??
+ 23      Slot 8  3014 51E0 00??
+ 24      Slot 9  3014 51E4 00??
+ 25      Slot 10 3014 51E8 00??
+ 26      Slot 11 3014 51EC 00??
+ 27      Slot 12 3014 51F0 00??
+ 28      Slot 13 3014 51F4 00??
+ 29      Slot 14 3014 51F8 00??
+ 30      Slot 15 3014 51FC 00??
+ 31      Slot 16 3014 5200 00??
+ 32      Slot 17 3014 5204 00??
+ 33      Slot 18 3014 5208 00??
+ 34      Slot 19 3014 520C 00??
+ 35      Slot 20 3014 5210 00??
+ 36      Slot 21 3014 5214 00??
+ 37      Slot 22 3014 5218 00??
+ 38      Slot 23 3014 521C 00??
+ 39      Slot 24 3014 5220 00??
+ 40      Slot 25 3014 5224 00??
+ 41      Slot 26 3014 5228 00??
+ 42      Slot 27 3014 522C 00??
+ 43      Slot 28 3014 5230 00??
+ 44      Slot 29 3014 5234 00??
+ 45      Slot 30 3014 5238 00??
+ 46      Slot 31 3014 523C 00??
+ 47      Slot 32 3014 5240 00??
+ 48      Slot 33 3014 5244 00??
+ 49      Slot 34 3014 5248 00??
+ 50      Slot 35 3014 524C 00??
+ 51      Slot 36 3014 5250 00??
+ 52      Slot 37 3014 5254 00??
+ 53      Slot 38 3014 5258 00??
+ 54      Slot 39 3014 525C 00??
+ 55      Slot 40 3014 5260 00??
+ 56      Slot 41 3014 5264 00??
+ 57      Slot 42 3014 5268 00??
+ 58      Slot 43 3014 526C 00??
+ 59      Slot 44 3014 5270 00??
+ 60      Slot 45 3014 5274 00??
+ 61      Slot 46 3014 5278 00??
+ 62      Slot 47 3014 527C 00??
+ 63      Slot 48 3014 5280 00??
+ 64      Slot 49 3014 5284 00??
+ 65      Slot 50 3014 5288 00??
+ 66      Slot 51 3014 528C 00??
+ 67      Slot 52 3014 5290 00??
+
+ Infinite
+
+ 68      All slots       B411 0AE2 C470
+ 1431 5B1D D500
+ 69      Slot 1  3431 5B11 D53C
+ 70      Slot 2  3431 5B1D D500
+ 71      Slot 3  3431 5B19 D504
+ 72      Slot 4  3431 5B05 E528
+ 73      Slot 5  3431 5B01 E52C
+ 74      Slot 6  3431 5B0D E530
+ 75      Slot 7  3431 5B09 E534
+ 76      Slot 8  3431 5B35 D518
+ 77      Slot 9  3431 5B31 D51C
+ 78      Slot 10 3431 5B3D D5E0
+ 79      Slot 11 3431 5B39 D5E4
+ 80      Slot 12 3431 5B25 E508
+ 81      Slot 13 3431 5B21 E50C
+ 82      Slot 14 3431 5B2D E510
+ 83      Slot 15 3431 5B29 E514
+ 84      Slot 16 3431 58D4 D2FF
+ 85      Slot 17 3431 58D0 D2C3
+ 86      Slot 18 3431 58DC D2C7
+ 87      Slot 19 3431 58D8 D2CB
+ 88      Slot 20 3431 58C4 E2EF
+ 89      Slot 21 3431 58C0 E2F3
+ 90      Slot 22 3431 58CC E2F7
+ 91      Slot 23 3431 58C8 E2FB
+ 92      Slot 24 3431 58F4 D2DF
+ 93      Slot 25 3431 58F0 D2A3
+ 94      Slot 26 3431 58FC D2A7
+ 95      Slot 27 3431 58F8 D2AB
+ 96      Slot 28 3431 58E4 E2CF
+ 97      Slot 29 3431 58E0 E2D3
+ 98      Slot 30 3431 58EC E2D7
+ 99      Slot 31 3431 58E8 E2DB
+ 100     Slot 32 3431 5894 D2BF
+ 101     Slot 33 3431 5890 D283
+ 102     Slot 34 3431 589C D287
+ 103     Slot 35 3431 5898 D28B
+ 104     Slot 36 3431 5884 E2AF
+ 105     Slot 37 3431 5880 E2B3
+ 106     Slot 38 3431 588C E2B7
+ 107     Slot 39 3431 5888 E2BB
+ 108     Slot 40 3431 58B4 D29F
+ 109     Slot 41 3431 58B0 D263
+ 110     Slot 42 3431 58BC D267
+ 111     Slot 43 3431 58B8 D26B
+ 112     Slot 44 3431 58A4 E28F
+ 113     Slot 45 3431 58A0 E293
+ 114     Slot 46 3431 58AC E297
+ 115     Slot 47 3431 58A8 E29B
+ 116     Slot 48 3431 5854 D27F
+ 117     Slot 49 3431 5850 D243
+ 118     Slot 50 3431 585C D247
+ 119     Slot 51 3431 5858 D24B
+ 120     Slot 52 3431 5844 E26F
+
+ INDEX FOR INVENTORYMODIFIERS
+
+ Weapons
+
+ 17 - Ammunition for the sniper's rifle
+ 27 - Revolver
+ 59 - Photoelectric pulsar
+ 5A - Battery charger
+ 5E - Customized revolver
+ 65 - Magnesium flare
+ 66 - Triple-barreled gun
+ 67 - Laser rifle
+ 68 - Disk launcher
+ 69 - Rocket launcher
+ 6A - Grenade launcher
+ 6B - Lightning gun
+ 6C - Stun pistol
+ 6D - Plasma cannon
+ 6F - Box of 9mm magnesium bullets
+ 70 - Box of phosphorus cartridges
+ 74 - 15 kW battery
+ 75 - Case of rockets
+ 76 - Case of grenades
+ 77 - Gas cartridge
+
+ Objects
+
+ 03 - Small steel key (3rd F west)
+ 04 - Archibald Morton's flask
+ 05 - Crowbar
+ 06 - Reassembled photograph
+ 07 - Bronze key (1st F east)
+ 08 - Wolf mask
+ 09 - Steel key (2nd F east)
+ 0A - Large ornate key (1st F library)
+ 0B - Bronze key (1st F west)
+ 0C - Archibald Morton's lighter
+ 0D - Small grey metal key (2nd F office)
+ 0E - Small steel key (2nd F east)
+ 0F - Half of a photograph (1)
+ 10 - Large ornate key (1st F library)
+ 11 - Half of a photograph (2)
+ 12 - Photoelect. pulsar w/o barrel, with yellow acc.
+ 13 - Perforator barrel Mould
+ 14 - Photoelect. pulsar w/o barrel, with orange acc.
+ 15 - Sniper's rifle
+ 18 - Acrobat statuette
+ 19 - Small bronze key
+ 1C - Golden metal key
+ 1D - Stone stele
+ 1E - Red accelerator
+ 1F - White photoelectric pulsar
+ 20 - Tripod support
+ 21 - Tripod support with perforator barrel
+ 22 - Obed Morton's seal
+ 23 - Blue lens
+ 24 - Photoelectric pulsar w/o barrel, with red acc.
+ 25 - Small steel key (3rf F east)
+ 26 - Glass prism
+ 28 - Metallic ring w. Abkanis energy stone (1st F east)
+ 2B - De Certo's mirror
+ 2C - Abkanis statue of anticoalt
+ 2D - Glass prism
+ 2E - Engraved cube (Library)
+ 2F - Abkanis tablets
+ 30 - Half medallion (1)
+ 31 - Half medallion (2)
+ 32 - Allen wrench
+ 33 - Cover for flashlight
+ 34 - Golden metallic card
+ 35 - Metallic pliers
+ 36 - Metallic half-ring (1)
+ 38 - Large steel key
+ 39 - Metallic half-ring (2)
+ 3A - Glass lens
+ 3B - Red metallic card
+ 3C - Silver metallic card
+ 3D - Black metallic card
+ 3E - Alan Morton's seal
+ 3F - Large steel key
+ 40 - Photoelectric pulsar w/o barrel
+ 41 - Indian statue of Gilamesh
+ 42 - Abkanis energy stone
+ 43 - Butt
+ 44 - Barrel
+ 45 - White accelerator
+ 46 - Yellow accelerator
+ 47 - Orange accelerator
+ 48 - Tripod support
+ 49 - Bronze sun
+ 4A - Indian statue of Heliopaner
+ 4B - Indian statue of Melacanthe
+ 4C - Indian statue of Hemicles
+ 4D - Indian statue of Ouphenos
+ 4E - Indian statue of Hecatonchires
+ 4F - Flashlight
+ 50 - Metallic ring
+ 51 - Steel lingot
+ 53 - Photoelectric pulsar with orange accelerator
+ 54 - Perforator barrel
+ 55 - Photoelectric pulsar with yellow accelerator
+ 56 - Photoelectric pulsar with Red accelerator
+ 57 - Perforator w/o Abkanis energy stone
+ 58 - Perforator with energy stone
+ 5B - Stone pyramid
+ 5C - Stone Abkanis seal (1)
+ 5D - Stone Abkanis seal (2)
+ 5F - Stone Abkanis seal (3)
+ 60 - Stone Abkanis seal (4)
+ 61 - Stone Abkanis seal (5)
+ 62 - Stone Abkanis seal (6)
+ 63 - Small golden key
+ 64 - Engraved metallic plate
+ 6E - Walkie-talkie
+ 71 - Small rusty key (B cellar)
+ 72 - First aid kit
+ 73 - Amulet of protection
+ 7B - Photograph
+ 7C - Energy crystal
+ 7E - Safeguard amulet
+ 7F - Flashlight with cover
+
+ Documents
+
+ 02 - Fiske's notebook
+ 16 - Jeremy's riddle
+ 1B - Dictaphone
+ 29 - Abkanis tablets translation
+ 2A - Book on the Abkanis indians
+ 37 - Diagram
+ 52 - Sheet of paper
+ 78 - Hand-written letter
+ 79 - Richard Morton's last will and testament
+ 7A - Archibald Morton's diary
+ 7D - Jeremy Morton's diary
+ 80 - Frederick Johnson's letter
+
+ATTENTION: Never ever ask me how to use these codes. I just copied and pasted
+           it from the mail into my walkthrough. The contributer told me that
+           the codes start with 801 are for the NTSC version. His mail is pretty
+           confusing so I don't understand what he said most of the times. You
+           can mail him for further details. Other than that, some of the codes 
+           are mixed up so I don't know why. I will not update this walkthrough
+           anymore. Thanks!
+
+Thanks to nicky huys &lt;coolboy@cheatvault.com&gt; 
+
+I didn't try the code because I don't have a Gameshark so the code may not
+be working. You can contact Chriss for more detail about the codes. Some people
+claimed that the codes didn't work on the PAL version so I supposed it's only
+work on the NTSC version, but if you are able to make it works on the PAL version
+then pls tell me.
+
+============
+5. Credits:
+============
+
+-Thanks God for everything!
+
+-Thanks to DarkWorks for making this great game.
+
+-Thanks to Infogrames for publishing this game.
+
+-Thanks to GameFAQs and Game Revolution for posting my walkthrough.
+
+-Thanks to myself for putting a lot of efforts in this guide.
+
+-Thanks to Iain Noble (iain.noble@ntworld.com) for telling me the old man is
+ Edenshaw. I already knew it but thanks anyway. :) Also thanks to him for letting
+ me use some of his information for this great game to put
+ in my walkthrough. You can get his walkthrough at www.gamefaqs.com too!
+ Thanks to him too for made a spell check for me. :)
+
+-Thanks to Laurent Franchet from DarkWorks for telling me how to obtain the
+ password to use in the library when playing as Aline. I NEVER imagine the
+ developer of Alone In The Dark would read my walkthrough. Thanks!
+
+-Thanks to Chriss Benoit &lt;devil_gs@yahoo.com&gt; for sending me those Gameshark
+ codes!
+
+-Thanks to Simon Mitic &lt;ngevan@t-online.de&gt; for telling me there's no basement, 1st,
+ and 2nd floor in US.
+
+-Thanks to Peter &lt;PGliesmann@t-online.de&gt; for telling me that I forgot to
+ point out that you need to use the torchlight after you put in the glass
+ prism into the projector.
+
+-Thanks to Toussaint 'spyro' Guglielmi for telling me how to beat the flying
+ boss in the library more easily.
+
+-Thanks to Budi &lt;a_lod_2ks@yahoo.com&gt; and Frantic Illusion &lt;trbjerka@c2i.net&gt; for
+ the free charm tip!
+
+-Thanks to nicky huys &lt;coolboy@cheatvault.com&gt; for the huge codes list.
